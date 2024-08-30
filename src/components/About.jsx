@@ -99,7 +99,7 @@ const AboutPages = () => {
   </Row>
 <br/>
 
-{/* <methodology section></methodology> */}
+{/* <methodology section></methodology  > */}
 <Row className='justify-content-center' h-70>
   <Col md={6} className='mx-auto'>
   <Card   style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'400px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)',}}>
