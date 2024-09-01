@@ -24,7 +24,7 @@ const Programs = () => {
 
         <Col md={4}  className="text-center">
         <Card.Img variant="top"
-        src="public/assets/back.jpg"
+        src="/images/back.jpg"
         className="img-fluid"
         style={{maxHeight:'150px'}}/>
         </Col>
@@ -46,7 +46,7 @@ const Programs = () => {
 
         <Col md={4}  className="text-center">
         <Card.Img variant="top"
-        src="public/assets/admission.jpg"
+        src="/images/admission.jpg"
         className="img-fluid"
         style={{maxHeight:'150px'}}/>
         </Col>
@@ -68,7 +68,7 @@ const Programs = () => {
 
         <Col md={4}  className="text-center">
         <Card.Img variant="top"
-        src="public/assets/admission.jpg"
+        src="/images/admission.jpg"
         className="img-fluid"
         style={{maxHeight:'150px'}}/>
         </Col>
@@ -90,7 +90,7 @@ const Programs = () => {
 
         <Col md={4}  className="text-center">
         <Card.Img variant="top"
-        src="public/assets/admission.jpg"
+        src="/images/admission.jpg"
         className="img-fluid"
         style={{maxHeight:'150px'}}/>
         </Col>
@@ -111,7 +111,7 @@ const Programs = () => {
 
         <Col md={4}  className="text-center">
         <Card.Img variant="top"
-        src="public/assets/admission.jpg"
+        src="/images/admission.jpg"
         className="img-fluid"
         style={{maxHeight:'150px'}}/>
         </Col>
@@ -132,7 +132,7 @@ const Programs = () => {
 
         <Col md={4}  className="text-center">
         <Card.Img variant="top"
-        src="public/assets/Career Day.jpg"
+        src="/images/Career Day.jpg"
         className="img-fluid"
         style={{maxHeight:'150px'}}/>
         </Col>

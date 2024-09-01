@@ -9,7 +9,7 @@ function FluidExample() {
     <>
    
     <Card >
-    <Image src='public/assets/Academics 2233.jpg' fluid
+    <Image src='/images/Academics 2233.jpg' fluid
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'500px', width:'100%',objectFit:'cover'}}/>
       <Card.Body>
@@ -51,7 +51,7 @@ function FluidExample() {
       </Col>
       <Col md={6} className='ps-0'>
       <Card>
-        <Image src='public/assets/nnnn.jpg'fluid style={{maxHeight:'200px', width:'100%',objectFit:'cover'}}/>
+        <Image src='/images/nnnn.jpg'fluid style={{maxHeight:'200px', width:'100%',objectFit:'cover'}}/>
       </Card>
       </Col>
 
@@ -62,7 +62,7 @@ function FluidExample() {
 <Row className='g-0'>
   <Col md={6} className='ps-0'>
   <Card>
-    <Image src='public/assets/test3.jpg' style={{maxHeight:'200px', width:'100%',objectFit:'cover'}} fluid />
+    <Image src='/images/test3.jpg' style={{maxHeight:'200px', width:'100%',objectFit:'cover'}} fluid />
   </Card>
   </Col>
   <Col md={6} className='pe-0'>
@@ -92,7 +92,7 @@ function FluidExample() {
       </Col>
       <Col md={6} className='ps-0'>
       <Card>
-        <Image src='public/assets/nnnn.jpg'fluid style={{maxHeight:'200px', width:'100%',objectFit:'cover'}}/>
+        <Image src='/images/nnnn.jpg'fluid style={{maxHeight:'200px', width:'100%',objectFit:'cover'}}/>
       </Card>
       </Col>
 

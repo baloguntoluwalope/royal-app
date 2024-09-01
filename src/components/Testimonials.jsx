@@ -34,7 +34,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 text" 
-            src="public/assets/oldtt.jpg"
+            src="/images/oldtt.jpg"
              class="img-fluid h-100 border"
             alt="Slide 1"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -44,7 +44,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100" 
-            src="public/assets/Premium .jpg"
+            src="/images/Premium .jpg"
             alt="Slide 2"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
             />
@@ -53,7 +53,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 float-right" 
-            src="public/assets/ED443.jpg"
+            src="/images/ED443.jpg"
              class="img-fluid h-100 border"
             alt="Slide 3"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -63,7 +63,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 float-right" 
-            src="public/assets/hgjrjqwj.jpg"
+            src="/images/hgjrjqwj.jpg"
              class="img-fluid h-100 border"
             alt="Slide 4"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -73,7 +73,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 float-right" 
-            src="public/assets/Blue.jpg"
+            src="/images/Blue.jpg"
              class="img-fluid h-100 border"
             alt="Slide 5"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -133,7 +133,7 @@ function Testimonials() {
 
         <Col md={4}  className="text-center">
         <Card.Img variant="top"
-        src="public/assets/admission.jpg"
+        src="/images/admission.jpg"
         className="  img-fluid"
         style={{maxHeight:'150px'}}/>
         </Col>

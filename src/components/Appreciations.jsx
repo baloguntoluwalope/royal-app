@@ -17,7 +17,7 @@ const Appreciations = () => (
         <Col md={4}>
           <Card className="h-100">
             <Card.Img variant="top"
-              src="public/assets/lab3.jpg"
+              src="/images/lab3.jpg"
               className="img-fluid" />
             <Card.Body>
               <Card.Title><h1>Facilities</h1></Card.Title>
@@ -29,7 +29,7 @@ const Appreciations = () => (
         <Col md={4}>
           <Card className="h-100">
             <Card.Img variant="top"
-              src="public/assets/IMG.jpg"
+              src="/images/IMG.jpg"
               style={{backgroundColor:''}}
               className="img-fluid" />
             <Card.Body>
@@ -43,7 +43,7 @@ const Appreciations = () => (
         <Col md={4}>
           <Card className="h-100">
             <Card.Img variant="top"
-              src="public/assets/IMG2023.jpg"
+              src="/images/IMG2023.jpg"
               className="img-fluid" />
             <Card.Body>
               <Card.Title><h1>Extra-curricular Activities</h1></Card.Title>

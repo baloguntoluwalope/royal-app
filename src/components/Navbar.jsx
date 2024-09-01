@@ -19,7 +19,7 @@ function ColorSchemesExample() {
             rectangle
             fluid
             variant="top"
-            src='public/assets/God,s Grace Royal School.jpg'
+            src='/images/God,s Grace Royal School.jpg'
             alt="me"
             className='float-left'
             style={{position:'absolute',top:'10px',left:'10px'}}
