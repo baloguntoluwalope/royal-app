@@ -3,12 +3,11 @@ import { Button, Card, Carousel, Col, Container, Image, Row, } from 'react-boots
 import "bootstrap-icons/font/bootstrap-icons.css";
 import Footers from '../components/Footers'
 
-
 const AboutPages = () => {
   return (
     <div fluid className=' py-5'     style={{backgroundColor:'#06D001'}    }>
             <Card >
-    <Image src='src/assets/sssss.jpg' fluid 
+    <Image src='public/assets/sssss.jpg' fluid 
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'500px', width:'100%',objectFit:'cover'}}/>
       <Card.Body>
@@ -52,7 +51,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100 text" 
-      src="src/assets/Premium .jpg"
+      src="public/assets/Premium .jpg"
       alt="Slide 1"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -61,7 +60,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100" 
-      src="src/assets/12eee.jpg"
+      src="public/assets/12eee.jpg"
       alt="Slide 2"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -70,7 +69,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100 float-right" 
-      src="src/assets/IMGspell africa.jpg"
+      src="public/assets/IMGspell africa.jpg"
       alt="Slide 3"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -79,7 +78,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100 float-right" 
-      src="src/assets/indomie.jpg"
+      src="public/assets/indomie.jpg"
       alt="Slide 4"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -88,7 +87,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100 float-right" 
-      src="src/assets/IMGssss.jpg"
+      src="public/assets/IMGssss.jpg"
       alt="Slide 5"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -197,7 +196,7 @@ const AboutPages = () => {
        <Col md={6}  className='mx-auto'> 
          <Card style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'400px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)',}}>
           <Card.Img variant="top"
-            src="src/assets/manage.jpg"
+            src="public/assets/manage.jpg"
             className="img-fluid" />
           <Card.Body>
             <Card.Title><h1>Director/Principal</h1></Card.Title>

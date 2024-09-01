@@ -9,7 +9,7 @@ const Nursery = () => {
   return (
     <div style={{backgroundColor:'#06D001'}}>
           <Card >
-    <Image src='src/assets/Academics 2233.jpg' fluid
+    <Image src='public/assets/Academics 2233.jpg' fluid
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'500px', width:'100%',objectFit:'cover'}}/>
       <Card.Body>

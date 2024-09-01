@@ -6,7 +6,7 @@ const ContactUsPages = () => {
   return (
     <div style={{ backgroundColor:'#06D001'}}>
                   <Card >
-    <Image src='src/assets/old school.jpg' fluid
+    <Image src='public/assets/old school.jpg' fluid
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}/>
       <Card.Body>
