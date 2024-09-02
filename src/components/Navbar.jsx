@@ -20,6 +20,7 @@ function ColorSchemesExample() {
             fluid
             variant="top"
             src='/images/God,s Grace Royal School.jpg'
+            loading='lazy'
             alt="me"
             className='float-left'
             style={{position:'absolute',top:'10px',left:'10px'}}

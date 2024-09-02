@@ -10,6 +10,7 @@ const Nursery = () => {
     <div style={{backgroundColor:'#06D001'}}>
           <Card >
     <Image src='/images/Academics 2233.jpg' fluid
+    loading='lazy'
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'500px', width:'100%',objectFit:'cover'}}/>
       <Card.Body>

@@ -18,6 +18,7 @@ const Appreciations = () => (
           <Card className="h-100">
             <Card.Img variant="top"
               src="/images/lab3.jpg"
+              loading="lazy"
               className="img-fluid" />
             <Card.Body>
               <Card.Title><h1>Facilities</h1></Card.Title>
@@ -30,6 +31,7 @@ const Appreciations = () => (
           <Card className="h-100">
             <Card.Img variant="top"
               src="/images/IMG.jpg"
+              loading="lazy"
               style={{backgroundColor:''}}
               className="img-fluid" />
             <Card.Body>
@@ -44,6 +46,7 @@ const Appreciations = () => (
           <Card className="h-100">
             <Card.Img variant="top"
               src="/images/IMG2023.jpg"
+              loading="lazy"
               className="img-fluid" />
             <Card.Body>
               <Card.Title><h1>Extra-curricular Activities</h1></Card.Title>

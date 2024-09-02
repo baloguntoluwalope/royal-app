@@ -8,6 +8,7 @@ const AboutPages = () => {
     <div fluid className=' py-5'     style={{backgroundColor:'#06D001'}    }>
             <Card >
     <Image src="/images/sssss.jpg" fluid 
+    loading='lazy'
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'500px', width:'100%',objectFit:'cover'}}/>
       <Card.Body>
@@ -32,7 +33,7 @@ const AboutPages = () => {
 
 
 <Row className='align-items-center'>
-  <Col md={6} style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'400px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)', backgroundColor:'#F7F7F7'}}>
+  <Col md={6} style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'600px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)', backgroundColor:'#F7F7F7'}}>
   <h1 className='text-center' >Brief History</h1>
   <h6 className=""  >            
       The school God's Grace Royal Schools formerly known as Ore Ofe Private School at plot8,Grace Estate,Behind Cele 1, Idanyin, Agbara Atan Road Ogun State 
@@ -52,6 +53,7 @@ const AboutPages = () => {
       <img
       className="d-block w-100 text" 
       src="/images/Premium .jpg"
+      loading='lazy'
       alt="Slide 1"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -61,6 +63,7 @@ const AboutPages = () => {
       <img
       className="d-block w-100" 
       src="/images/12eee.jpg"
+      loading='lazy'
       alt="Slide 2"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -70,6 +73,7 @@ const AboutPages = () => {
       <img
       className="d-block w-100 float-right" 
       src="/images/IMGspell africa.jpg"
+      loading='lazy'
       alt="Slide 3"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -79,6 +83,7 @@ const AboutPages = () => {
       <img
       className="d-block w-100 float-right" 
       src="/images/indomie.jpg"
+      loading='lazy'
       alt="Slide 4"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -88,6 +93,7 @@ const AboutPages = () => {
       <img
       className="d-block w-100 float-right" 
       src="/images/IMGssss.jpg"
+      loading='lazy'
       alt="Slide 5"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
       />
@@ -101,7 +107,7 @@ const AboutPages = () => {
 {/* <methodology section></methodology    > */}
 <Row className='justify-content-center' h-70>
   <Col md={6} className='mx-auto'>
-  <Card   style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'400px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)',}}>
+  <Card   style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'600px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)',}}>
     <Card.Body>
   
       <Card.Title className='text-center'>< i  class="bi bi-exclude h2"></i><h1>OUR METHODOLOGY</h1></Card.Title>
@@ -197,10 +203,11 @@ const AboutPages = () => {
          <Card style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'400px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)',}}>
           <Card.Img variant="top"
             src="/images/manage.jpg"
+            loading='lazy'
             className="img-fluid" />
           <Card.Body>
-            <Card.Title><h1>Director/Principal</h1></Card.Title>
-            <Card.Text><h5>Miss Balogun senami </h5> </Card.Text>
+            <Card.Title><h2>Director/Principal</h2></Card.Title>
+            <Card.Text><h4>Miss Balogun Senami </h4> </Card.Text>
           </Card.Body>
         </Card>
       </Col>  

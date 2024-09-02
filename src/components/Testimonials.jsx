@@ -35,6 +35,7 @@ function Testimonials() {
             <img
             className="d-block w-100 text" 
             src="/images/oldtt.jpg"
+            loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 1"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -45,6 +46,7 @@ function Testimonials() {
             <img
             className="d-block w-100" 
             src="/images/Premium .jpg"
+            loading="lazy"
             alt="Slide 2"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
             />
@@ -54,6 +56,7 @@ function Testimonials() {
             <img
             className="d-block w-100 float-right" 
             src="/images/ED443.jpg"
+            loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 3"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -64,6 +67,7 @@ function Testimonials() {
             <img
             className="d-block w-100 float-right" 
             src="/images/hgjrjqwj.jpg"
+            loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 4"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -74,6 +78,7 @@ function Testimonials() {
             <img
             className="d-block w-100 float-right" 
             src="/images/Blue.jpg"
+            loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 5"
             style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
