@@ -15,7 +15,7 @@ const ContactUsPages = () => {
       <Container className='position-absolute top-50 start-50 translate-middle'>
         <Row>
           <Col className='text-center'>
-          <Card.Text className='text-white fw-bold'><h1>Contact Us</h1></Card.Text>
+          <Card.Text className='text-white fw-bold'></Card.Text>
           </Col>
         </Row>
 
