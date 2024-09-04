@@ -6,7 +6,7 @@ const ContactUsPages = () => {
   return (
     <div style={{ backgroundColor:'#06D001'}}>
                   <Card >
-    <Image src='/images/old school.jpg' fluid
+    <Image src='/images/old-school1.jpg' fluid
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}/>
       <Card.Body>
@@ -49,7 +49,7 @@ const ContactUsPages = () => {
 <Card.Body href='# ' className='responsive-text' style={{backgroundColor:''}}>
   
 
-  <h2 ><i class="bi bi-telephone-fill h2"></i>Contact</h2> 
+  <h2 ><i class="bi bi-telephone-fill h2"></i> Contact</h2> 
   <h5>Line 1 : 09068103355</h5>
   <h5>Line 2 : 08086853726</h5>
   <h5>Email  : god'sgraceroyalschools@gmail.com</h5>
@@ -66,7 +66,7 @@ const ContactUsPages = () => {
 <Card.Body href='# ' className='responsive-text' style={{backgroundColor:''}}>
   
 
-  <h2  ><i class="bi bi-clock h2"></i>Hour of operation</h2> 
+  <h2  ><i class="bi bi-clock h2"></i> Hour of operation</h2> 
   <h5>Monday - thursdays: 07:00am - 17:00pm</h5>
   <h5>Fridays : 07:00am- 14:00pm</h5>
   

@@ -7,7 +7,7 @@ const AboutPages = () => {
   return (
     <div fluid className=' py-5'     style={{backgroundColor:'#06D001'}    }>
             <Card >
-    <Image src="/images/sssss.jpg" fluid 
+    <Image src="/images/nursery-pics.jpg" fluid 
     loading='lazy'
  className='w-90 w-md-75 w-lg-50'
  style={{maxHeight:'500px', width:'100%',objectFit:'cover'}}/>
@@ -62,7 +62,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100" 
-      src="/images/12eee.jpg"
+      src="/images/nursery3.jpg"
       loading='lazy'
       alt="Slide 2"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -72,7 +72,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100 float-right" 
-      src="/images/IMGspell africa.jpg"
+      src="/images/IMGspell-africa.jpg"
       loading='lazy'
       alt="Slide 3"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -82,7 +82,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100 float-right" 
-      src="/images/indomie.jpg"
+      src="/images/secondary-grad.jpg"
       loading='lazy'
       alt="Slide 4"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -92,7 +92,7 @@ const AboutPages = () => {
     <Carousel.Item>
       <img
       className="d-block w-100 float-right" 
-      src="/images/IMGssss.jpg"
+      src="/images/indomie-grp.jpg"
       loading='lazy'
       alt="Slide 5"
       style={{maxHeight:'800px', width:'100%',objectFit:'cover'}}
@@ -202,7 +202,7 @@ const AboutPages = () => {
        <Col md={6}  className='mx-auto'> 
          <Card style={{transition:"all 0.3s ease-in-out ", borderRadius:'16px',boxShadow:'4px 8px rgba(0,0,0,0.1)', border:'1px', width:'100%', maxWidth:'400px', margin:'auto' ,'&:hover':{boxShadow:'0 8px 16px rgba(0,0,0.2)', transform:'scale(1.05)'},transform:'scale(1.05)',}}>
           <Card.Img variant="top"
-            src="/images/manage.jpg"
+            src="/images/management.jpg"
             loading='lazy'
             className="img-fluid" />
           <Card.Body>

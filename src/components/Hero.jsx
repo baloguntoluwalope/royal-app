@@ -14,7 +14,7 @@ function Hero() {
          <Image
          rectangle
          fluid
-         src='/images/12345.jpg'
+         src='/images/Hero-pics1.jpg'
          loading='lazy'
          alt="me"
           class="img-fluid h-100 border"
@@ -40,7 +40,7 @@ function Hero() {
          <Image
          rectangle
          fluid
-         src='/images/E4D.jpg'
+         src='/images/green-hero-pics.jpg'
          loading='lazy'
           class="img-fluid h-100 border"
          alt="me"
@@ -67,7 +67,7 @@ function Hero() {
          <Image
          rectangle
          fluid
-         src='/images/seemnnn.jpg'
+         src='/images/Hero-slide3.jpg'
          loading="lazy"
           class="img-fluid h-100 border"
          alt="me"

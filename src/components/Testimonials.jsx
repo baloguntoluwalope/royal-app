@@ -34,7 +34,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 text" 
-            src="/images/oldtt.jpg"
+            src="/images/old-school.jpg"
             loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 1"
@@ -55,7 +55,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 float-right" 
-            src="/images/ED443.jpg"
+            src="/images/secondary-grad.jpg"
             loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 3"
@@ -66,7 +66,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 float-right" 
-            src="/images/hgjrjqwj.jpg"
+            src="/images/excursion2.jpg"
             loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 4"
@@ -77,7 +77,7 @@ function Testimonials() {
           <Carousel.Item>
             <img
             className="d-block w-100 float-right" 
-            src="/images/Blue.jpg"
+            src="/images/blue-pics.jpg"
             loading="lazy"
              class="img-fluid h-100 border"
             alt="Slide 5"
